@@ -1,5 +1,6 @@
+
 /* Variables And Values In Scala */
-object HelloWorld {
+object VariablesAndValues {
     def main(args: Array[String]) {
         val a: Int = 3
         val b = true
