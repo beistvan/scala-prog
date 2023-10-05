@@ -1,5 +1,5 @@
 /* Fundamental Types */
-object HelloWorld {
+object FundamentalTypes {
     def main(args: Array[String]) {
         val anInt: Int = 5
         val aDouble: Double = 3.2
